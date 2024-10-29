@@ -1,0 +1,1 @@
+I can look at the reading of two most prominent moods as dictated by top songs and artists of the year for any person. This can be achieve by taking the average energy, valence, and danceability of a person’s top 100 songs from the past year. It is an average value. The values can vary drastically for two songs. Also the mood and favorite artist can change quite often.
