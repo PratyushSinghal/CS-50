@@ -1,0 +1,8 @@
+HTML Tags Used:
+1. <nav> - Navigation bar for site navigation.
+2. <ul> - Unordered list for menu items.
+3. <li> - List items for navigation links.
+4. <a> - Anchor tags for hyperlinks.
+5. <h1> - Main headings for each page.
+6. <p> - Paragraphs for text content.
+7. <button> - Button element for interactive actions
